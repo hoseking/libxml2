@@ -1,0 +1,4 @@
+config.h
+include/libxml/xmlversion.h
+win32/*
+!win32/bootstrap.bat
